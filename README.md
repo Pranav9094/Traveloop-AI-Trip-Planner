@@ -69,7 +69,8 @@ You need to have **Node.js** (v18 or higher) and **npm** installed on your syste
    ```
 
 4. **View the Application:**
-   Open your browser and navigate to `http://localhost:5173/`.
+   - **Live Deployment:** [traveloop-ai-trip-planner.vercel.app](https://traveloop-ai-trip-planner.vercel.app)
+   - **Local Development:** Open your browser and navigate to `http://localhost:5173/`.
 
    > **Note:** The application currently runs in **Demo Mode**. You can click "Sign In" on the login page using any credentials to access the fully populated mock data environment.
 
@@ -103,6 +104,9 @@ traveloop/
 ## 👥 Team Members
 
 - **Pranav Chaudhari** - _Lead Developer & UI/UX Designer_ - [GitHub](https://github.com/Pranav-Chaudhari)
+- **Arjun Kawale** - _Backend Engineer_ - [GitHub](https://github.com/kawalearjun18-commits)
+- **Shrutika Kawale** - _AI Integration Specialist_ - [GitHub](https://github.com/shrutikakawale567-crypto)
+- **Kangna Thakur** - _Presentation & Documentation_ - [GitHub](https://github.com/kangnathakur779-rgb)
 
 ---
 
