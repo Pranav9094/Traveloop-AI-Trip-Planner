@@ -21,6 +21,7 @@
 ## 🛠️ Technology Stack
 
 ### Frontend
+
 - **Framework:** [React 19](https://react.dev/) scaffolded with [Vite](https://vitejs.dev/)
 - **Styling:** [Tailwind CSS v4](https://tailwindcss.com/) (Utility-first with a custom premium design system)
 - **State Management:** [Zustand](https://zustand-demo.pmnd.rs/) (Lightweight, persistent global state)
@@ -30,6 +31,7 @@
 - **Icons & Typography:** `react-icons`, Google Fonts (Fraunces, DM Sans, JetBrains Mono)
 
 ### Backend (Architecture & Planned)
+
 - **Server:** Node.js + Express
 - **Database:** PostgreSQL + Prisma ORM
 - **Authentication:** JWT + bcrypt
@@ -48,29 +50,28 @@ You need to have **Node.js** (v18 or higher) and **npm** installed on your syste
 ### Installation
 
 1. **Clone the repository:**
+
    ```bash
-   git clone https://github.com/your-username/traveloop.git
+   git clone https://github.com/Pranav9094/traveloop.git
    cd traveloop
    ```
 
 2. **Install dependencies:**
+
    ```bash
    npm install
    ```
 
 3. **Run the development server:**
+
    ```bash
    npm run dev
    ```
 
 4. **View the Application:**
-   Open your browser and navigate to `http://localhost:5173/`. 
-   
+   Open your browser and navigate to `http://localhost:5173/`.
+
    > **Note:** The application currently runs in **Demo Mode**. You can click "Sign In" on the login page using any credentials to access the fully populated mock data environment.
-
-### Building for Production
-
-To create an optimized production build for deployment (e.g., on Vercel, Netlify):
 
 ```bash
 npm run build
@@ -101,11 +102,10 @@ traveloop/
 
 ## 👥 Team Members
 
-- **Pranav Chaudhari** - *Lead Developer & UI/UX Designer* - [GitHub](https://github.com/Pranav-Chaudhari)
-- **[Team Member 2 Name]** - *Backend Engineer* - [GitHub](https://github.com/username)
-- **[Team Member 3 Name]** - *AI Integration Specialist* - [GitHub](https://github.com/username)
-
-*(Replace placeholders with actual team member details if working in a group).*
+- **Pranav Chaudhari** - _Lead Developer & UI/UX Designer_ - [GitHub](https://github.com/Pranav-Chaudhari)
+- **Arjun Kawale** - _Backend Engineer_ - [GitHub](https://github.com/kawalearjun18-commits)
+- **Shrutika Kawale** - _AI Integration Specialist_ - [GitHub](https://github.com/shrutikakawale567-crypto)
+- **Kangna Thakur** - _Presentation & Documentation_ - [GitHub](https://github.com/kangnathakur779-rgb)
 
 ---
 
@@ -114,4 +114,5 @@ traveloop/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-*Built with ❤️ for travelers everywhere.*
+
+_Built with ❤️ for travelers everywhere._
