@@ -103,9 +103,6 @@ traveloop/
 ## 👥 Team Members
 
 - **Pranav Chaudhari** - _Lead Developer & UI/UX Designer_ - [GitHub](https://github.com/Pranav-Chaudhari)
-- **Arjun Kawale** - _Backend Engineer_ - [GitHub](https://github.com/kawalearjun18-commits)
-- **Shrutika Kawale** - _AI Integration Specialist_ - [GitHub](https://github.com/shrutikakawale567-crypto)
-- **Kangna Thakur** - _Presentation & Documentation_ - [GitHub](https://github.com/kangnathakur779-rgb)
 
 ---
 
